@@ -13,3 +13,6 @@
 [submodule "vim/plugin/bundle/neocomplcache.vim"]
 	path = vim/plugin/bundle/neocomplcache.vim
 	url = https://github.com/Shougo/neocomplcache.vim.git
+[submodule "vim/plugin/bundle/minibufexpl.vim"]
+	path = vim/plugin/bundle/minibufexpl.vim
+	url = https://github.com/vim-scripts/minibufexpl.vim.git
