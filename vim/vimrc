@@ -1,4 +1,9 @@
+"--------------------------------------
 "激活pathogen.
+source ~/.vim/begin_load.vim
 execute pathogen#infect()
+execute pathogen#infect('private/{}')
+source ~/.vim/end_load.vim 
+"--------------------------------------
 syntax on
 filetype plugin indent on
