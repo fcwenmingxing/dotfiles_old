@@ -8,3 +8,8 @@ let g:user_email = g:user_name . "@126.com"
 let g:neocomplcache_enable_at_startup = 1  
 let g:neocomplcache_enable_ignore_case = 1
 "let g:neocomplcache_enable_auto_select = 1
+"-------------------------------------------------
+"minibufexpl.vim 的配置：
+map <C-L> :bn<CR>
+map <C-H> :bp<CR>
+map <C-k> :bd<CR>
